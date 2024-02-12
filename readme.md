@@ -24,3 +24,6 @@ Exloring Backend Development by create a simple CRUD using expres typescript, pr
 
 Open http://localhost:8080
     
+## Todo:
+
+- Create Authentication (login/register)
