@@ -15,7 +15,7 @@ Exloring Backend Development by create a simple CRUD using expres typescript, pr
   Connect database:
     - create .env file
     - set DATABASE_URL
-    - npx prisma db push
+    - run: npx prisma db push
 
   Run:
     - npm run dev
